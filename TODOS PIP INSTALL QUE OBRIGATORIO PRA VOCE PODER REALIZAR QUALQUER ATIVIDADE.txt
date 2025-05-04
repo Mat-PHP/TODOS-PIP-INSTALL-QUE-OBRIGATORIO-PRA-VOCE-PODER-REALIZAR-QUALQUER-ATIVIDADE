@@ -1,0 +1,74 @@
+
+
+
+Comandos pip install comuns por categoria
+
+
+
+ Pacotes básicos e utilitários
+
+| Comando                      | O que faz                                               |
+| ---------------------------- | ------------------------------------------------------- |
+| `pip install requests`       | Faz requisições HTTP. Útil para acessar APIs.           |
+| `pip install beautifulsoup4` | Faz parsing de HTML/XML. Usado para web scraping.       |
+| `pip install lxml`           | Um parser rápido de HTML/XML (usado com BeautifulSoup). |
+| `pip install python-dotenv`  | Lê variáveis de ambiente de arquivos `.env`.            |
+| `pip install tqdm`           | Cria barras de progresso elegantes para loops.          |
+
+
+Desenvolvimento Web
+| Comando               | O que faz                                              |
+| --------------------- | ------------------------------------------------------ |
+| `pip install flask`   | Microframework para criar APIs e sites simples.        |
+| `pip install django`  | Framework completo para criar aplicações web robustas. |
+| `pip install fastapi` | Framework moderno para APIs rápidas com Python 3.7+.   |
+| `pip install uvicorn` | Servidor ASGI usado com FastAPI.                       |
+
+
+ Data Science / Análise de Dados
+
+| Comando                  | O que faz                                     |
+| ------------------------ | --------------------------------------------- |
+| `pip install numpy`      | Biblioteca de arrays e operações matemáticas. |
+| `pip install pandas`     | Manipulação de dados em tabelas (DataFrames). |
+| `pip install matplotlib` | Criação de gráficos.                          |
+| `pip install seaborn`    | Gráficos estatísticos com visual bonito.      |
+| `pip install plotly`     | Gráficos interativos.                         |
+| `pip install scipy`      | Cálculos científicos e estatísticos.          |
+
+ Machine Learning e IA
+| Comando                    | O que faz                                                    |
+| -------------------------- | ------------------------------------------------------------ |
+| `pip install scikit-learn` | Algoritmos de machine learning prontos.                      |
+| `pip install xgboost`      | Modelo de aprendizado de máquina muito usado em competições. |
+| `pip install lightgbm`     | Algoritmo de boosting eficiente para grandes volumes.        |
+| `pip install tensorflow`   | Framework de deep learning do Google.                        |
+| `pip install keras`        | Interface de alto nível para TensorFlow.                     |
+| `pip install torch`        | PyTorch: framework de deep learning da Meta.                 |
+
+Testes e Qualidade de Código
+| Comando                | O que faz                                        |
+| ---------------------- | ------------------------------------------------ |
+| `pip install pytest`   | Ferramenta de testes unitários poderosa.         |
+| `pip install coverage` | Mede cobertura de testes no código.              |
+| `pip install flake8`   | Linter para verificar erros de estilo em Python. |
+
+
+Automação e Scripts
+Comando
+| Comando                 | O que faz                                    |
+| ----------------------- | -------------------------------------------- |
+| `pip install pyautogui` | Automatiza mouse e teclado (útil para bots). |
+| `pip install openpyxl`  | Leitura e escrita de arquivos Excel `.xlsx`. |
+| `pip install pillow`    | Manipulação de imagens em Python.            |
+| `pip install schedule`  | Criação de tarefas agendadas (tipo cron).    |
+
+
+
+
+Outros úteis
+| Comando                  | O que faz                               |
+| ------------------------ | --------------------------------------- |
+| `pip install virtualenv` | Criação de ambientes virtuais isolados. |
+| `pip install jupyterlab` | Ambiente interativo para notebooks.     |
+| `pip install ipython`    | Shell interativo avançado.              |
