@@ -72,3 +72,5 @@ Outros úteis
 | `pip install virtualenv` | Criação de ambientes virtuais isolados. |
 | `pip install jupyterlab` | Ambiente interativo para notebooks.     |
 | `pip install ipython`    | Shell interativo avançado.              |
+
+TODOS QUE FORAM INSTALAR PRECISA INSTALAR  PELO CMD
